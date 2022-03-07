@@ -1,1 +1,21 @@
-Z
+cd desktop
+mkdir Shell00
+cd Shell00m
+mkdir ex00
+cd ex00
+touch z
+cat -e z 
+rm Z
+clear
+echo "assad824462"
+echo Z>z
+ls
+cat -e z
+echo -n Z>z
+cat -e z
+rm z 
+clear
+touch z 
+vim z
+cat -e z 
+output will be Z
